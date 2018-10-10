@@ -1,0 +1,9 @@
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.exe.config
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.exe
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\bin\Debug\WindowsFormsApplication29.pdb
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Form1.resources
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.Properties.Resources.resources
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.csproj.GenerateResource.Cache
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.exe
+C:\Users\çağdaş\Documents\Visual Studio 2012\WindowsFormsApplication29\WindowsFormsApplication29\obj\Debug\WindowsFormsApplication29.pdb
